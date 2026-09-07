@@ -1,6 +1,6 @@
 ---
 title: Apollo H-3 Holiday Ornament
-date-published: 2026-08-26
+date-published: 2026-09-7
 type: light
 standard: global
 board: esp32
